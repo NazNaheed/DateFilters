@@ -1,0 +1,15 @@
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\bin\Debug\net6.0\CurrentMonthSundays.exe
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\bin\Debug\net6.0\CurrentMonthSundays.deps.json
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\bin\Debug\net6.0\CurrentMonthSundays.runtimeconfig.json
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\bin\Debug\net6.0\CurrentMonthSundays.dll
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\bin\Debug\net6.0\CurrentMonthSundays.pdb
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\CurrentMonthSundays.csproj.AssemblyReference.cache
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\CurrentMonthSundays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\CurrentMonthSundays.AssemblyInfoInputs.cache
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\CurrentMonthSundays.AssemblyInfo.cs
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\CurrentMonthSundays.csproj.CoreCompileInputs.cache
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\CurrentMonthSundays.dll
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\refint\CurrentMonthSundays.dll
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\CurrentMonthSundays.pdb
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\CurrentMonthSundays.genruntimeconfig.cache
+C:\Users\naheenaz\source\repos\CurrentMonthSundays\CurrentMonthSundays\obj\Debug\net6.0\ref\CurrentMonthSundays.dll
